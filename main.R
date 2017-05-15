@@ -1,4 +1,6 @@
+# Load necessary libraries
 library(rvest)
+library(tidyverse)
 
 # Using a for loop (for now) to cycle through the west wing transcripts and load them 
 df <- data.frame("ep_no" = 1:148) %>%
