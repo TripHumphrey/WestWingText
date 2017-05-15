@@ -1,4 +1,7 @@
+# Basic Rstudio files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# Additional Exclusions
